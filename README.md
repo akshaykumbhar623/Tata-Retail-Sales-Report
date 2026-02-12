@@ -59,4 +59,5 @@ Identify revenue opportunities
 Improve strategic planning
 Make data-driven decisions efficiently
 
-Dashboard Preview: (https://github.com/akshaykumbhar623/Tata-Retail-Sales-Report/blob/main/TataRetailSaleDashboard.JPG)
+Dashboard looks like. -![Alt text]
+Dashboard Preview: ![Dashboard Preview](https://github.com/akshaykumbhar623/Tata-Retail-Sales-Report/blob/main/TataRetailSaleDashboard.JPG)
