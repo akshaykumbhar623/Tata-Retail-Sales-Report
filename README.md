@@ -1,5 +1,3 @@
-# Tata-Retail-Sales-Report
-
 📊 Tata Retail Sales Dashboard – Power BI Project
 🔹 Project Overview
 This interactive Retail Sales Analytics Dashboard was developed in Power BI to analyze business performance, identify revenue drivers, and provide actionable insights for strategic decision-making.
@@ -58,7 +56,7 @@ Data Visualization Best Practices
 This dashboard enables stakeholders to:
 Quickly monitor business health
 Identify revenue opportunities
-
 Improve strategic planning
-
 Make data-driven decisions efficiently
+
+Dashboard Preview: (https://github.com/akshaykumbhar623/Tata-Retail-Sales-Report/blob/main/TataRetailSaleDashboard.JPG)
